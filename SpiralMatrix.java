@@ -69,9 +69,9 @@ public class SpiralMatrix
             {  
                 int p = matrix[row][col];  
                 if(p < 10)  
-                    System.out.print(p +" ");  
+                    System.out.print(p +"   ");  
                 else  
-                    System.out.print(p +" ");  
+                    System.out.print(p +"  ");  
             }  
         System.out.println();  
     }  
